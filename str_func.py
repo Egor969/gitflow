@@ -3,6 +3,7 @@ print(s.upper())
 """
 Ввод строчных и вывод заглавных букв
 """
+"""Check"""
 
 x = input("")
 print(x.title())
